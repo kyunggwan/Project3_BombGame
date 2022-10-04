@@ -1,6 +1,6 @@
 # Project3_BombGame
 https://kyunggwan.github.io/Project3_BombGame/
-게임 방법 : 폭탄 섞기를 누르세요. 폭탄을 피해서 클릭하세요
+**게임 방법 : 폭탄 섞기를 누르세요. 폭탄을 피해서 클릭하세요
 
 1. 폭탄 섞기 : 폭탄의 위치를 배열 처리.
 2. 폭탄이 있는 위치가 셔플 되었는지 확인.
