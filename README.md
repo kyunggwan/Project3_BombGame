@@ -1,4 +1,4 @@
-# Project3_BombGame
+# Project3_BombGame  
 https://kyunggwan.github.io/Project3_BombGame/
 **게임 방법 : 폭탄 섞기를 누르세요. 폭탄을 피해서 클릭하세요
 
